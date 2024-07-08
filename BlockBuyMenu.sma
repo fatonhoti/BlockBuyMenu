@@ -5,6 +5,9 @@
 #define VERSION "1.0"
 #define AUTHOR "big_biceps"
 
+// Not my code. I could not find a working verified plugin that implemented this, so I created one myself that uses this implementation.
+// Credit: https://forums.alliedmods.net/showpost.php?p=1645966&postcount=2
+
 new g_msgStatusIcon;
 
 public plugin_init() {
